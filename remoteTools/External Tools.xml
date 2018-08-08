@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
+    <exec>
+      <option name="COMMAND" value="/home/vagrant/.config/composer/vendor/bin/php-cs-fixer " />
+      <option name="PARAMETERS" value="fix $UnixSeparators$($FileDirRelativeToProjectRoot$) --rules=@Symfony" />
+      <option name="WORKING_DIRECTORY" value="/vagrant" />
+    </exec>
+  </tool>
+  <tool name="PHPStan" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
+    <exec>
+      <option name="COMMAND" value="/home/vagrant/.config/composer/vendor/bin/phpstan" />
+      <option name="PARAMETERS" value="analyse --level 5  $UnixSeparators($FileDirRelativeToProjectRoot$)$" />
+      <option name="WORKING_DIRECTORY" value="/vagrant" />
+    </exec>
+  </tool>
+  <tool name="MySQL Import" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="19ece5ce-c5e8-4323-a53e-82f4207f1bc6">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/mysql" />
+      <option name="PARAMETERS" value="-u root --password=&quot;password&quot; $Prompt$ &lt; &quot;$FileRelativePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="/vagrant" />
+    </exec>
+  </tool>
+</toolSet>
