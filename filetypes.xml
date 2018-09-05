@@ -4,10 +4,6 @@
       <mapping ext="xm" type="C++" />
       <mapping ext="m" type="C++" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="SnakeYAML" />
-      <mapping ext="yaml" type="SnakeYAML" />
-      <removed_mapping ext="yml" approved="true" type="YAML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
