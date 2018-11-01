@@ -1334,6 +1334,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/binding_of_caller-0.8.0/examples" />
       </excluded>
     </library>
+    <library name="bootstrap (v4.1.3, RVM: ruby-2.4.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bootstrap-4.1.3/assets" />
+      </excluded>
+    </library>
     <library name="bootstrap-sass (v3.3.7, RVM: ruby-2.4.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7161,6 +7184,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/pony-1.12/spec" />
+      </excluded>
+    </library>
+    <library name="popper_js (v1.14.3, RVM: ruby-2.4.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/popper_js-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/popper_js-1.14.3/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/popper_js-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/popper_js-1.14.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/popper_js-1.14.3/assets" />
       </excluded>
     </library>
     <library name="power_assert (v0.4.1, RVM: ruby-2.4.0 [global] (1)) [gem]">
