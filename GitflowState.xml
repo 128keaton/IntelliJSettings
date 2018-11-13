@@ -1,0 +1,9 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="IH-10804" value="feature/IH-10804" />
+      </map>
+    </option>
+  </component>
+</application>
