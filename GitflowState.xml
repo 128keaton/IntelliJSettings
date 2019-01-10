@@ -3,6 +3,7 @@
     <option name="taskBranches">
       <map>
         <entry key="APP-18" value="feature/APP-18-Contact-Mobile-Phone-Additions" />
+        <entry key="APP-28" value="feature/APP-28-Export-Job-List" />
         <entry key="APP-45" value="feature/APP-45-Mobile-Notification-Scrolling-Fix" />
         <entry key="APP-48" value="feature/APP-48-Driver-Filter-Fix" />
         <entry key="APP-50" value="feature/APP-50-Text-Overlap-Bug-Fix" />
