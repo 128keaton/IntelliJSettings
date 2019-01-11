@@ -8,6 +8,7 @@
         <entry key="APP-48" value="feature/APP-48-Driver-Filter-Fix" />
         <entry key="APP-50" value="feature/APP-50-Text-Overlap-Bug-Fix" />
         <entry key="APP-54" value="feature/APP-54-Contact-Creation-Fix" />
+        <entry key="APP-67" value="feature/APP-67-Password-Requirements" />
         <entry key="IH-10804" value="feature/IH-10804" />
       </map>
     </option>
