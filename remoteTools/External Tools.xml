@@ -20,4 +20,18 @@
       <option name="WORKING_DIRECTORY" value="/vagrant" />
     </exec>
   </tool>
+  <tool name="npm update" description="Update npm on ReviveIT.io" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="971272f7-da24-40df-b704-64614a2018f8">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/npm" />
+      <option name="PARAMETERS" value="update" />
+      <option name="WORKING_DIRECTORY" value="/var/www/reviveit/wp-content/themes/teriz-child" />
+    </exec>
+  </tool>
+  <tool name="npm watch" description="Run npm watch on ReviveIT.io" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="971272f7-da24-40df-b704-64614a2018f8">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/npm" />
+      <option name="PARAMETERS" value="run watch" />
+      <option name="WORKING_DIRECTORY" value="/var/www/reviveit/wp-content/themes/teriz-child" />
+    </exec>
+  </tool>
 </toolSet>

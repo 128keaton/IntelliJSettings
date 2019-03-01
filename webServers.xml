@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="971272f7-da24-40df-b704-64614a2018f8" name="ReviveIT Wordpress" url="http://reviveit.io">
+        <fileTransfer host="reviveit.io" port="22" privateKey="$USER_HOME$/.ssh/ER2EC2Servers-East.pem" rootFolder="/var/www/reviveit/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
