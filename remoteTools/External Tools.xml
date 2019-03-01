@@ -34,4 +34,11 @@
       <option name="WORKING_DIRECTORY" value="/var/www/reviveit/wp-content/themes/teriz-child" />
     </exec>
   </tool>
+  <tool name="npm build css" description="Run npm watch on ReviveIT.io" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/npm" />
+      <option name="PARAMETERS" value="run css" />
+      <option name="WORKING_DIRECTORY" value="/var/www/reviveit/wp-content/themes/teriz-child" />
+    </exec>
+  </tool>
 </toolSet>
