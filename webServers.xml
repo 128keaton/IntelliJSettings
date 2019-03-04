@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b010b3a5-c162-4aec-9726-e86b52f7d69a" name="Local WP" url="http://10.0.1.9">
-        <fileTransfer host="10.0.1.9" port="22" rootFolder="/var/www/wordpress" accessType="SFTP">
+        <fileTransfer host="10.0.1.9" port="22" rootFolder="/var/www/reviveit/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
