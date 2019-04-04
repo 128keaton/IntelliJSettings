@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="xm" type="C++" />
       <mapping ext="m" type="C++" />
       <mapping pattern="Question2" type="CLASS" />
       <mapping pattern="_receiving-stats.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".mutagen.toml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
