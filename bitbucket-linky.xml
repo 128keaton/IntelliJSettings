@@ -11,12 +11,4 @@
     </lookup>
   </component>
   <component name="Instance" id="ad4368d6-6554-474c-8671-e86513cce4c8" version="7.0" />
-  <component name="UsageLog">
-    <event name="OpenFile" place="Vcs.FileHistory.ContextMenu" timestamp="2019-05-16T06:14:55.574Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
