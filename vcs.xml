@@ -6,7 +6,12 @@
           <option name="url" value="http://bitbucket.reviveit.io" />
           <option name="userName" value="keaton.burleson" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/128keaton/COMP-1900" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\3798001\IdeaProjects" />
   </component>
 </application>
