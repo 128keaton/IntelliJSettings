@@ -2,5 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myShellPath" value="ubuntu1604.exe" />
+    <option name="myTabName" value="LWS" />
   </component>
 </application>
