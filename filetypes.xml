@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ServerErrorInterceptor" type="TypeScript" />
+      <mapping pattern="request" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
