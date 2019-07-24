@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ServerErrorInterceptor" type="TypeScript" />
+      <mapping pattern=".tsconfig" type="JSON" />
       <mapping pattern="request" type="TypeScript" />
+      <mapping pattern="ServerErrorInterceptor" type="TypeScript" />
+      <removed_mapping pattern=".tsconfig" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
