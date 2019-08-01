@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/128keaton/ts-serializer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/128keaton/burly" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\3798001\IdeaProjects" />
