@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="TypeScript" />
       <mapping pattern="FedexPartsTableConfiguration" type="TypeScript" />
       <mapping pattern="ServerErrorInterceptor" type="TypeScript" />
-      <mapping pattern="request" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
