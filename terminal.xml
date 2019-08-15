@@ -1,6 +1,10 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="TERM" value="cygwin" />
+    </envs>
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myTabName" value="YEET" />
+    <option name="myShellPath" value="&quot;C:\Program Files\Git\bin\bash.exe&quot; --login -i" />
+    <option name="myTabName" value="shell" />
   </component>
 </application>
