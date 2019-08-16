@@ -1,10 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="TERM" value="cygwin" />
-    </envs>
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="&quot;C:\Program Files\Git\bin\bash.exe&quot; --login -i" />
+    <option name="myShellPath" value="&quot;ubuntu1604&quot; run zsh" />
     <option name="myTabName" value="shell" />
   </component>
 </application>
