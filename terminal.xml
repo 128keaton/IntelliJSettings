@@ -1,8 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="HOME" value="C:\Users\3798001" />
-    </envs>
     <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myShellPath" value="C:\cygwin64\bin\zsh.exe" />
     <option name="myTabName" value="shell" />
