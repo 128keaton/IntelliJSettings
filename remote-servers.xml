@@ -1,0 +1,20 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="FedEx CF" type="cloudfoundry">
+      <configuration email="3798001">
+        <option name="apiUrl" value="https://api.sys.wtcdev2.paas.fedex.com" />
+        <option name="domain" value="" />
+        <option name="organization" value="5321" />
+        <option name="space" value="development" />
+      </configuration>
+    </remote-server>
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="3798001">
+        <option name="apiUrl" value="https://api.sys.wtcdev2.paas.fedex.com" />
+        <option name="domain" value="" />
+        <option name="organization" value="5321" />
+        <option name="space" value="development" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
