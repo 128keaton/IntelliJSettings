@@ -1,15 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-11-09T08:32:21</property>
+    <property name="created">2019-10-03T11:35:59</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-10-01T11:33:23</property>
+    <property name="ideVersion">2019.2.2.0.0</property>
+    <property name="modified">2019-10-08T18:22:51</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Noto Mono for Powerline" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="FILESTATUS_ADDED" value="8f9d6a" />
     <option name="FILESTATUS_COPIED" value="8f9d6a" />
@@ -17,42 +13,16 @@
     <option name="FILESTATUS_HIJACKED" value="47bc9b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="9b859d" />
     <option name="FILESTATUS_MODIFIED" value="f9ee98" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9ee98" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9ee98" />
     <option name="FILESTATUS_OBSOLETE" value="a7a7a7" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
     <option name="FILESTATUS_SWITCHED" value="9b859d" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="8f9d6a" />
     <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
   </colors>
-  <attributes>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff2ed7" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="104a82" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="3dc74e" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="fffe07" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
