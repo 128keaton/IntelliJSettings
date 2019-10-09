@@ -10,5 +10,5 @@
       <record scheme="https" hostname="bitbucket.reviveit.io" port="-1" path="/" uuid="ef01539d-94c3-307f-94b9-ee4c9268717f" />
     </lookup>
   </component>
-  <component name="Instance" id="ad4368d6-6554-474c-8671-e86513cce4c8" version="7.1" />
+  <component name="Instance" id="ad4368d6-6554-474c-8671-e86513cce4c8" version="7.4" />
 </application>
