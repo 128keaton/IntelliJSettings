@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myTabName" value="YEET" />
+    <option name="myShellPath" value="zsh" />
+    <option name="myTabName" value="shell" />
   </component>
 </application>
