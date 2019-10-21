@@ -4,7 +4,7 @@
       <configuration email="3798001">
         <option name="apiUrl" value="https://api.sys.wtcdev2.paas.fedex.com" />
         <option name="domain" value="" />
-        <option name="organization" value="5321" />
+        <option name="organization" value="5231" />
         <option name="space" value="development" />
       </configuration>
     </remote-server>
