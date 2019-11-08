@@ -1,20 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="xm" type="C++" />
       <mapping ext="m" type="C++" />
+      <mapping ext="xm" type="C++" />
       <mapping pattern="Question2" type="CLASS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="vue" type="MavenConfig" />
-      <mapping pattern="_receiving-stats.scss" type="PLAIN_TEXT" />
       <mapping pattern=".mutagen.toml" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_receiving-stats.scss" type="PLAIN_TEXT" />
       <mapping pattern="request" type="TypeScript" />
       <mapping pattern="FedexPartsTableConfiguration" type="TypeScript" />
       <mapping pattern="ServerErrorInterceptor" type="TypeScript" />
+      <removed_mapping ext="vue" approved="true" type="MavenConfig" />
       <removed_mapping pattern="ModeExtension.php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
