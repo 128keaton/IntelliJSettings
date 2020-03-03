@@ -6,6 +6,7 @@
       <mapping pattern="Question2" type="CLASS" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="_receiving-stats.scss" type="PLAIN_TEXT" />
       <mapping pattern=".mutagen.toml" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
